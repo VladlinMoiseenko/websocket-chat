@@ -1,0 +1,19 @@
+[package]
+name = "websocket-chat-broker"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "server"
+path = "src/main.rs"
+
+[dependencies]
+actix = "0.13"
+actix-broker = "0.4.2"
+actix-files = "0.6"
+actix-web = "4"
+actix-web-actors = "4.1"
+
+env_logger = "0.9"
+log = "0.4"
+rand = "0.8"
