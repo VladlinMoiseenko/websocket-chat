@@ -1,5 +1,7 @@
 # Websocket chat Example
 
+[README_RUS](https://github.com/VladlinMoiseenko/websocket-chat/blob/master/README_RUS.md ): Русская версия README.
+
 Implementation in Rust using actix, actix-web, actix-broker
 
 The example is based on [chat-broker](https://github.com/actix/examples/tree/master/websockets/chat-broker )
@@ -26,6 +28,6 @@ cd websocket-chat
 cargo run
 ```
 
-## WebSocket Browser Client
+### WebSocket Browser Client
 
 Open url: http://localhost:8080/
