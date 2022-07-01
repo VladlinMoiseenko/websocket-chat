@@ -1,4 +1,4 @@
-# Websocket chat Example
+# Websocket Chat Example
 
 [README.md](https://github.com/VladlinMoiseenko/websocket-chat/blob/master/README.md ): English README.
 
@@ -33,3 +33,7 @@ cargo run
 ### WebSocket Browser Client
 
 Open url: http://localhost:8080/
+
+### WebSocket Android Client
+
+[Websocket Chat Android Client](https://github.com/VladlinMoiseenko/websocket-chat-android-client )
